@@ -83,4 +83,4 @@ The Logistic Regression model gives good accuracy in detecting fake news and wor
 
 1. Clone the repository  
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/aditi-jha25/Fake-news-prediction.git>
